@@ -7,3 +7,5 @@ Languages and Tools:
 4. Lua
 5. MongoDB, RethinkDB
 6. Npm, Yarn
+
+![Nimplex's github stats](https://github-readme-stats.vercel.app/api?username=Nimplex&show_icons=true)
