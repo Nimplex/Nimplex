@@ -4,10 +4,9 @@ Languages and Tools that i know:
 ```json
 1. JavaScript
 2. GoLang [learning]
-3. Python [learning]
-4. Lua
-5. MongoDB, RethinkDB
-6. Npm, Yarn
+3. Lua
+4. MongoDB, RethinkDB
+5. Npm, Yarn
 ```
 Contact:
 ```json
