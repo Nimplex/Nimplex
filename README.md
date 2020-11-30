@@ -16,4 +16,5 @@ Languages and Tools that i know:
 3. Website: https://nimplex.ml/
 ```
 
-![Nimplex's github stats](https://github-readme-stats.vercel.app/api?username=Nimplex&show_icons=true)
+![Nimplex's github stats](https://github-readme-stats.vercel.app/api?username=Nimplex&show_icons=true&theme=buefy&layout=compact)
+![Nimplex's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimplex&theme=buefy&layout=compact)
