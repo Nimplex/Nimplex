@@ -9,12 +9,13 @@ Languages and Tools that i know:
 5. MongoDB, RethinkDB
 6. Npm, Yarn
 ```
-[Contact](https://nimplex.ml/contact):
+[Contact](https://nimplex.xyz/contact):
 ```json
 1. Discord: Nimplex#6232
 2. Twitter: @Nimplexy
-3. Website: https://nimplex.ml/
+3. Website: https://nimplex.xyz
 ```
+
 
 ![Nimplex's github stats](https://github-readme-stats.vercel.app/api?username=Nimplex&show_icons=true&theme=buefy&layout=compact)
 ![Nimplex's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimplex&theme=buefy&layout=compact)
