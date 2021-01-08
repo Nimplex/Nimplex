@@ -15,7 +15,4 @@ Languages and Tools that i know:
 2. Twitter: @Nimplexy
 3. Website: https://nimplex.xyz
 ```
-
-
-![Nimplex's github stats](https://github-readme-stats.vercel.app/api?username=Nimplex&show_icons=true&theme=buefy&layout=compact)
-![Nimplex's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nimplex&theme=buefy&layout=compact)
+![Metrics](https://metrics.lecoq.io/nimplex?template=classic&languages=1&config.timezone=Europe%2FBerlin)
