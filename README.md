@@ -15,4 +15,4 @@ Languages and Tools that i know:
 2. Twitter: @Nimplexy
 3. Website: https://nimplex.xyz
 ```
-![Metrics](https://metrics.lecoq.io/nimplex?template=classic&languages=1&config.timezone=Europe%2FBerlin)
+![Metrics](https://github.com/Nimplex/Nimplex/blob/master/github-metrics.svg)
