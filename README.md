@@ -7,5 +7,5 @@
 3. Website: https://nimplex.xyz
 ```
 
-![Profile views](https://komarev.com/ghpvc/?username=Nimplex)
+![Profile views](https://komarev.com/ghpvc/?username=Nimplex) <br/>
 ![Metrics](https://github.com/Nimplex/Nimplex/blob/master/github-metrics.svg)
