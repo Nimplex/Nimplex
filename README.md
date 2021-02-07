@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Nimplex<br/>
-**A backend developer from Poland**<br/>
+**A full-stack developer from Poland**<br/>
 [Contact](https://nimplex.xyz/contact):
 ```json
 1. Discord: Nimplex#6232
