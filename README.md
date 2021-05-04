@@ -14,5 +14,6 @@ Other "languages" that I use:
 Technologies I use:
 - [MongoDB](https://www.mongodb.com/) and [RethinkDB](https://rethinkdb.com/).
 - [Sqlite3](https://sqlite.org/).
+- [Nginx](https://nginx.org/).
 
 Contact: https://nimplex.xyz/contact
