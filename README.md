@@ -1,6 +1,6 @@
 # Hello 👋, I'm Nimplex
 I come from Poland 🇵🇱, and I am a full-stack programmer.<br>
-Currently I work mainly on my [FiveM server](https://4rdm.cf/).<br>
+Currently I work mainly on my [FiveM server](https://4rdm.pl/).<br>
 Programming languages I mostly use:
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript) and [TypeScript](https://www.typescriptlang.org/) ❤️.
 - [Golang](https://golang.org/) ❤️.
