@@ -20,4 +20,12 @@ Tools I use:
 - [Visual Studio Code](https://code.visualstudio.com/) ❤️ and [Atom](https://atom.io/)
 - [GIT](https://git-scm.com/) and [Github Desktop Client](https://desktop.github.com/) ❤️
 
+My current techstack:
+- React,
+- Express,
+- MongoDB,
+- Redis as a cache,
+- Nginx,
+- Cloudflare
+
 Contact: https://nimplex.xyz/contact
